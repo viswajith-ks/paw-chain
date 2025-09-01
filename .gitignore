@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Editor-specific configurations
+.vscode/
+.idea/
+pyrightconfig.json
