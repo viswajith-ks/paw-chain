@@ -4,7 +4,7 @@ A simple, cat-themed blockchain built in Python for educational purr-poses.
 
 This project is a fun, hands-on introduction to the core concepts of blockchain technology. Instead of dealing with boring, technical jargon, explore the world of `PawBlocks`, `PawTransactions`, and hunting for `Catnip`\!
 
-\!([https://i.imgur.com/g050s7E.jpeg](https://www.google.com/search?q=https://i.imgur.com/g050s7E.jpeg))
+![hi](https://i.imgur.com/4dSv0jH.gif)
 
 -----
 
@@ -101,7 +101,5 @@ ecdsa
 
 This project was built for learning and fun. It is a **highly simplified model** of a real blockchain and has many security flaws and missing features.
 
-  * **No real P2P network:** The simulation runs on a single machine.
-  * **Centralized mining:** The same user mines every block.
   * **No robust consensus algorithm:** It doesn't handle conflicts between different versions of the chain.
   * **Basic security:** It is vulnerable to many attacks that real cryptocurrencies are designed to prevent.
