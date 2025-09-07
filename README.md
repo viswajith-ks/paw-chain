@@ -42,14 +42,6 @@ To make learning more fun, I've replaced standard blockchain terms with cat-them
 
 Follow these steps to get your own instance of the PawChain running.
 
-### Prerequisites
-
-You'll need Python 3.7+ and a few packages. First, create a `requirements.txt` file in your project directory with the following content:
-
-```txt
-ecdsa
-```
-
 ### Installation
 
 1.  **Clone the repository (or download the files):**
